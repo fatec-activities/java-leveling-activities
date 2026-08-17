@@ -74,12 +74,19 @@
 │   │   ├── CashManagement.java
 │   │   ├── Main.java
 │   │   └── Utils.java
-│   └── 17GradeSystem
-│       ├── GradeSystem.java
-│       ├── Main.java
-│       ├── Student.java
-│       └── Utils.java
+│   ├── 17GradeSystem
+│   │   ├── GradeSystem.java
+│   │   ├── Main.java
+│   │   ├── Student.java
+│   │   └── Utils.java
+│   ├── 18BankSystem
+│   │   ├── BankMenu.java
+│   │   ├── BankSystem.java
+│   │   ├── Main.java
+│   │   └── Utils.java
+│   ├── 19TicTacToe
+│   └── SchoolSystem
 └── README.md
 
-23 directories, 55 files
+26 directories, 59 files
 ```
